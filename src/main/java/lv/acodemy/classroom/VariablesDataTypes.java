@@ -32,7 +32,7 @@ public class VariablesDataTypes {
         //boolean is; has;
         boolean isWinter = false;
         boolean isSpring = true;
-§
+
         // String
         String name = "Onna";
         String surName = "Ceslavska";
