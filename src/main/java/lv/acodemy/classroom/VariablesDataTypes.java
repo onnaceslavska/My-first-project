@@ -32,6 +32,7 @@ public class VariablesDataTypes {
         //boolean is; has;
         boolean isWinter = false;
         boolean isSpring = true;
+        
         // String
         String name = "Onna";
         String surName = "Ceslavska";
@@ -62,15 +63,5 @@ public class VariablesDataTypes {
 
         int[] numbers = {0, 1, 2, 3, 4, 5, 6, 77, 8, 9, 10};
         System.out.println(Arrays.toString(numbers));
-
-
-
-
-
-
-
-
-
-
     }
 }
